@@ -13,7 +13,8 @@
     "dependencies": {
         "dyson": "~0.10.0",
         "dyson-generators": "~0.1",
-        "dyson-image": "~0.1"
+        "dyson-image": "~0.1",
+        "mockjs": "^1.0.0"
     },
     "repository": {
         "type": "git",
